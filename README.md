@@ -2,4 +2,4 @@
 
 This is the rocketmq-client
 
-about rocktmq : http://rocketmq.apache.org/
+about rocketmq : http://rocketmq.apache.org/
